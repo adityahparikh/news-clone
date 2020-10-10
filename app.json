@@ -1,0 +1,12 @@
+{
+  "name": "hacker-news",
+  "displayName": "hacker-news",
+  "expo": {
+    "name": "hacker-news",
+    "slug": "hacker-news",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
